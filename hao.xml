@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<menu name="mix2" id="">
+<item name="非常_4.0" url="http://ims.veryhd.net"/>		
+<item name="楓林_heroku" url="http://ims-hdp.cloudfor.info/video/scripts/siteList.php"/>	
+<item name="成人_heroku" url="http://ims-hdp.cloudfor.info/adult/scripts/siteList.php"/>
+<item name="最近觀看hao" url="http://ims.haoims.com/ims/fav.php?q=chl-recent"/>
+</menu>
+<menu name="HDP" id="">
+<item name="土豆_hdp" url="/usr/local/etc/myims/fav/tudou.xml"/>
+<item name="迅雷_hdp" url="/usr/local/etc/dvdplayer/xunlei.xml"/>
+<item name="Vool_hdp" url="/usr/local/etc/myims/fav/voole.xml"/>
+</menu>	
+<menu name="密碼區" id="http://ims.haoims.com/ims/cate.php?q=chl-netvideo-share-true-uid-">
+<item name="好好最愛" url="380"/><item name="時代高清" url="429"/>
+<item name="天上人間741741" url="5943"/><item name="個人影視1199" url="2998"/>
+<item name="酷圈圈555" url="12604"/><item name="網絡平台8587688" url="1607"/>
+<item name="好朋友147" url="5030"/><item name="楊門影將6498016" url="2597"/>
+<item name="黃河絕戀9560" url="9560"/><item name="288-3722" url="288"/>
+<item name="開心娛樂6600" url="6600"/><item name="君之共享3344" url="1532"/>
+<item name="視界高清123" url="8966"/><item name="全球直播559310-219310" url="9310"/>
+<item name="全球電視901127" url="6423"/><item name="電視LIVE981125" url="6039"/>
+<item name="時代直播" url="696"/><item name="懷舊劇場201303" url="5651"/>
+<item name="新視影音0000" url="4249"/><item name="38℃的日子11" url="2580"/>
+<item name="鑫龍影視7520" url="6945"/><item name="新影視xiaoxiu85" url="6706"/>
+</menu>	
